@@ -10,7 +10,7 @@ from aiogram.fsm.context import FSMContext
 import asyncio
 import re
 
-API_TOKEN = '7222857072:AAEYoAkgQP-jHVNz91P0fEN1zxN9slh-Uq4'
+API_TOKEN = ''
 
 conn = sqlite3.connect("db.db3")
 cursor = conn.cursor()
