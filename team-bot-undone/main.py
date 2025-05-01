@@ -18,7 +18,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.formatting import TextMention
 
-TOKEN = "6724959545:AAGEAZ9dXte-HIVUY_IQKPj406dPJKswm3Y"
+TOKEN = "x"
 conn = sqlite3.connect("db/db.db3")
 cursor = conn.cursor()
 router = Router()
